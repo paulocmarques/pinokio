@@ -31,7 +31,7 @@ const ensureSplashWindow = () => {
     height: 320,
     frame: false,
     resizable: false,
-    transparent: true,
+    backgroundColor: '#ffffff',
     show: false,
     alwaysOnTop: true,
     skipTaskbar: true,
